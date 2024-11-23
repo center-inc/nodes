@@ -1,0 +1,3 @@
+[submodule "docker/base/base-node"]
+	path = docker/base/base-node
+	url = https://github.com/base-org/node.git
